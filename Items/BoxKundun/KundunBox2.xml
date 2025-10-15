@@ -1,0 +1,121 @@
+<!--
+// ### ItemBag::BagConfig ###
+//	Name: Name of the Item or Monster
+// 	ItemRate: Drop rate of an Item, n/100
+//	MoneyDrop: Money amount to drop from bag (must be greater than 0 if ItemRate is lower than 100)
+//	BagUseEffect:
+//			   0: no effect
+//			   1: Firecracker effect type
+//			   2: Silver and Gold Medals effect type, Box of Heaven
+//			   3: Cherry Blossom Play Box effect type
+//
+// ### ItemBag:::Reward ###
+//	Type: 
+//		0:  Only drop items from list.
+//		1:  Only give coins, no drop items.
+//		2:  Give coins and drop items.
+//	WCoinC: Amount of WCoinC.
+//	WCoinP: Amount of WCoinP.
+//	GoblinPoint: Amount of GoblinPoints.
+//
+// ### ItemBag:::Bag::DropAllow ###
+//	BagUseRate: Drop rate of items from the bag, n/10000
+//	MapNumber: Map Number the drop of items applies to, -1 for all maps
+//	DW: 0 ~ Disallow, 1 ~ Dark Wizard, 2 ~ Sould Master, 3 ~ Grand Master (*)
+//	DK: 0 ~ Disallow, 1 ~ Dark Knight, 2 ~ Blade Knight, 3 ~ Blade Master (*)
+//	FE 0 ~ Disallow, 1 ~ Fairy Elf, 2 ~ Muse Elf, 3 ~ High Elf (*)
+//	MG: 0 ~ Disallow, 1 ~ Magic Gladiator, 2 ~ Duel Master (*)
+//	DL: 0 ~ Disallow, 1 ~ Dark Lord, 2 ~ Lord Emperor (*)
+//	SUM: 0 ~ Disallow, 1 ~ Summoner, 2 ~ Bloody Summoner, 3 ~ Dimension Master (*)
+//	RF: 0 ~ Disallow, 1 ~ Rage Fighter, 2 ~ Fist Master (*)
+//	(*) If setting lower class the higher one will automatically get allowed too
+//
+// ### ItemBag:::Bag::DropAllow::Drop ###
+//	Rate: Drop rate of items from the item list, n/10000
+//	Count: Items count to be dropped at a time from the section.
+//
+// ### ItemBag:::Bag::DropAllow::Drop::Item ###
+//	Cat: Item category, refer to \Data\Item\ItemList.xml
+//	Index: Item index, refer to \Data\Item\ItemList.xml
+//	MinLevel: Minimum level the item should drop with (must be lower or equal to MaxLevel), 0-15
+//	MaxLevel: Maximum level of the item should drop with (must be greater or equal to MinLevel), 0-15
+//	Durability: Durability is optional attribute, if used then defined value will be used, otherwise generated automatically, 0-255
+//	LevelOption: Item level option, refer to ItemOptionRate.xml [ItemOptionRate::LevelOption::Option::Index] -1: No option
+//	SkillOption: Item skill option, refer to ItemOptionRate.xml [ItemOptionRate::SkillOption::Option::Index] -1: No option
+//	LuckOption: Item luck option, refer to ItemOptionRate.xml [ItemOptionRate::LuckOption::Option::Index] -1: No option
+//	JoLOption: Item JoL option, refer to ItemOptionRate.xml [ItemOptionRate::JoLOption::Option::Index] -1: No option
+//	ExcOption: Item exc option, refer to ItemOptionRate.xml [ItemOptionRate::ExcOption::Option::Index]  -1: No option
+//	SetOption: Item set option, refer to ItemOptionRate.xml [ItemOptionRate::SetOption::Option::Index] -1: No option
+//	SocketOption: socket level option, refer to ItemOptionRate.xml [ItemOptionRate::SocketOption::Option::Index] -1: No option
+//	Duration: Duration of item, 0: no limit.
+-->
+
+<ItemBag>
+	<BagConfig Name="Kundun box 2" ItemRate="100" MoneyDrop="100000" BagUseEffect="0"  />
+	<Reward Type="0" WCoinC="0" WCoinP="0" GoblinPoint="0" />
+
+	<DropAllow BagUseRate="10000" MapNumber="-1" DW="1" DK="1" FE="1" MG="1" DL="1" SUM="1" RF="1" >
+		<Drop Rate="10000" Count="1">
+			<Item Cat="0" Index="10005" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Khoái đao -->
+			<Item Cat="0" Index="10012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Đao Sát Thủ-->
+			<Item Cat="0" Index="10012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Hỏa đao-->
+		
+			<Item Cat="0" Index="11005" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] rìu Chiến -->
+			<Item Cat="0" Index="11006" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] rìu lưỡi bạc -->
+		
+			<Item Cat="0" Index="12001" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] chùy gai -->
+			<Item Cat="0" Index="12009" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] quyền trượng thép-->
+		
+			<Item Cat="0" Index="13007" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] kích hai lưỡi -->
+			<Item Cat="0" Index="13005" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] giáo hai lưỡi -->
+		
+			<Item Cat="0" Index="14005" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] cung bạc -->
+			<Item Cat="0" Index="14012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] nỏ rắn -->
+			<Item Cat="0" Index="14013" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] nỏ thiên thanh -->
+			<Item Cat="0" Index="14014" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] nỏ kim ngân -->
+		
+			<Item Cat="0" Index="15003" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Gậy sét -->
+			<Item Cat="0" Index="15004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Gậy đầu lâu -->
+		
+			<Item Cat="1" Index="16001" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Khiên sừng -->
+			<Item Cat="1" Index="16002" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="25" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2] Khiên diều -->
+		
+			<Item Cat="2" Index="28061" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  trâu xanh -->
+			<Item Cat="3" Index="28062" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  trâu xanh -->
+			<Item Cat="4" Index="28063" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  trâu xanh -->
+			<Item Cat="5" Index="28064" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  trâu xanh -->
+			<Item Cat="6" Index="28065" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  trâu xanh -->
+
+			<Item Cat="2" Index="17004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  xương -->
+			<Item Cat="3" Index="18004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  xương -->
+			<Item Cat="4" Index="19004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  xương -->
+			<Item Cat="5" Index="20004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  xương -->
+			<Item Cat="6" Index="21004" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  xương -->
+		
+			<Item Cat="2" Index="17012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  thiên thanh -->
+			<Item Cat="3" Index="18012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  thiên thanh -->
+			<Item Cat="4" Index="19012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  thiên thanh -->
+			<Item Cat="5" Index="20012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  thiên thanh -->
+			<Item Cat="6" Index="21012" MinLevel="1" MaxLevel="1" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="25" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp2]  thiên thanh -->
+
+			<Item Cat="10" Index="23007" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn băng -->
+			<Item Cat="10" Index="23008" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn độc -->
+			<Item Cat="10" Index="23020" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn lửa -->
+			<Item Cat="10" Index="23020" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn lửa -->
+			<Item Cat="10" Index="23020" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn lửa -->
+			<Item Cat="10" Index="23020" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Nhẫn lửa -->
+
+			<Item Cat="9" Index="23011" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền sét -->
+			<Item Cat="9" Index="23012" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền lửa -->
+			<Item Cat="9" Index="23012" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền lửa -->
+			<Item Cat="9" Index="23012" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền lửa -->
+			<Item Cat="9" Index="23012" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền lửa -->
+			<Item Cat="9" Index="23012" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="20" LuckOption="-1" JoLOption="-1" ExcOption="100" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Cấp1] Dây chuyền lửa -->
+
+		
+			<Item Cat="-1" Index="24013" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Ngọc]  B -->
+			<Item Cat="-1" Index="24014" MinLevel="0" MaxLevel="0" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" /> <!--[Ngọc]  S -->
+			
+		</Drop>	
+	</DropAllow>
+</ItemBag>

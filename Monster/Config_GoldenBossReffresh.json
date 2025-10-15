@@ -5,31 +5,31 @@
         "BossType": 1,
         "FreshLoc": "[1,7,76]",
         "RandomRange": 1,
-        "Reborn": 0
+        "Reborn": 21600
     },
     {
         "RefreshID": 2,
-        "BOSSID": 221,
+        "BOSSID": 544,
         "BossType": 0,
-        "FreshLoc": "[1,7,73]",
+        "FreshLoc": "[1,208,54]",
         "RandomRange": 2,
-        "Reborn": 0
+        "Reborn": 21600
     },
     {
         "RefreshID": 3,
-        "BOSSID": 544,
+        "BOSSID": 539,
         "BossType": 1,
-        "FreshLoc": "[1,8,76]",
+        "FreshLoc": "[2,72,206]",
         "RandomRange": 2,
-        "Reborn": 0
+        "Reborn": 21660
     },
     {
         "RefreshID": 4,
-        "BOSSID": 3066,
+        "BOSSID": 3005,
         "BossType": 0,
-        "FreshLoc": "[9,174,68]",
+        "FreshLoc": "[2,221,195]",
         "RandomRange": 5,
-        "Reborn": 0
+        "Reborn": 21660
     },
     {
         "RefreshID": 5,
@@ -37,7 +37,7 @@
         "BossType": 0,
         "FreshLoc": "[9,157,117]",
         "RandomRange": 5,
-        "Reborn": 0
+        "Reborn": 21600
     },
     {
         "RefreshID": 6,
@@ -45,7 +45,7 @@
         "BossType": 0,
         "FreshLoc": "[9,80,82]",
         "RandomRange": 5,
-        "Reborn": 0
+        "Reborn": 21660
     },
     {
         "RefreshID": 7,

@@ -1,46 +1,48 @@
 <?xml version="10" encoding="utf-8"?>
-<Reset MaxInDay="3">
+<Reset MaxInDay="300">
 	<Normal>
-		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="190" Zen="1000000"/>
-		<Item NumMin="11" NumMax="20" Point="250" RequireLevel="200" Zen="2000000"/>
-		<Item NumMin="21" NumMax="30" Point="200" RequireLevel="210" Zen="3000000"/>
-		<Item NumMin="31" NumMax="40" Point="220" RequireLevel="230" Zen="2000000"/>
-		<Item NumMin="41" NumMax="50" Point="200" RequireLevel="240" Zen="2000000"/>
-		<Item NumMin="51" NumMax="60" Point="150" RequireLevel="260" Zen="4000000"/>
-		<Item NumMin="61" NumMax="80" Point="150" RequireLevel="270" Zen="4000000"/>
-		<Item NumMin="81" NumMax="100" Point="150" RequireLevel="290" Zen="4000000"/>
-		<Item NumMin="101" NumMax="120" Point="120" RequireLevel="310" Zen="5000000"/>
-		<Item NumMin="121" NumMax="150" Point="120" RequireLevel="340" Zen="5000000"/>
-		<Item NumMin="151" NumMax="200" Point="120" RequireLevel="350" Zen="5000000"/>
-		<Item NumMin="201" NumMax="250" Point="100" RequireLevel="360" Zen="6000000"/>
-		<Item NumMin="251" NumMax="280" Point="100" RequireLevel="370" Zen="6000000"/>
-		<Item NumMin="281" NumMax="300" Point="100" RequireLevel="375" Zen="6000000"/>
-		<Item NumMin="301" NumMax="320" Point="80" RequireLevel="380" Zen="7000000"/>
-		<Item NumMin="321" NumMax="350" Point="80" RequireLevel="390" Zen="7000000"/>
-		<Item NumMin="351" NumMax="370" Point="80" RequireLevel="400" Zen="7000000"/>
-		<Item NumMin="371" NumMax="390" Point="80" RequireLevel="400" Zen="7000000"/>
-		<Item NumMin="391" NumMax="400" Point="80" RequireLevel="400" Zen="7000000"/>
+		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="20" Zen="1000000" Item1="22015" Num1="0" Item2="24022" Num2="0"/>
+		<Item NumMin="11" NumMax="20" Point="280" RequireLevel="20" Zen="3000000" Item1="22015" Num1="0" Item2="24022" Num2="0"/>
+		<Item NumMin="21" NumMax="30" Point="260" RequireLevel="20" Zen="5000000" Item1="22015" Num1="0" Item2="24022" Num2="1"/>
+		<Item NumMin="31" NumMax="40" Point="200" RequireLevel="20" Zen="10000000" Item1="22015" Num1="0" Item2="24022" Num2="1"/>
+		<Item NumMin="41" NumMax="50" Point="150" RequireLevel="20" Zen="15000000" Item1="22015" Num1="0" Item2="24022" Num2="1"/>
+		<Item NumMin="51" NumMax="60" Point="100" RequireLevel="20" Zen="20000000" Item1="22015" Num1="1" Item2="24022" Num2="1"/>
+		<Item NumMin="61" NumMax="70" Point="100" RequireLevel="20" Zen="25000000" Item1="22015" Num1="1" Item2="24022" Num2="1"/>
+		<Item NumMin="71" NumMax="80" Point="100" RequireLevel="20" Zen="30000000" Item1="22015" Num1="1" Item2="24022" Num2="1"/>
+		<Item NumMin="81" NumMax="90" Point="100" RequireLevel="20" Zen="35000000" Item1="22015" Num1="1" Item2="24022" Num2="1"/>
+		<Item NumMin="91" NumMax="100" Point="100" RequireLevel="20" Zen="40000000" Item1="22015" Num1="1" Item2="24022" Num2="2"/>
+		<Item NumMin="101" NumMax="150" Point="80" RequireLevel="20" Zen="45000000" Item1="22015" Num1="1" Item2="24022" Num2="2"/>
+		<Item NumMin="151" NumMax="200" Point="65" RequireLevel="20" Zen="50000000" Item1="22015" Num1="2" Item2="24022" Num2="2"/>
+		<Item NumMin="201" NumMax="250" Point="60" RequireLevel="20" Zen="55000000" Item1="22015" Num1="2" Item2="24022" Num2="3"/>
+		<Item NumMin="251" NumMax="300" Point="55" RequireLevel="20" Zen="60000000" Item1="22015" Num1="2" Item2="24022" Num2="3"/>
+		<Item NumMin="301" NumMax="350" Point="50" RequireLevel="20" Zen="65000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
+		<Item NumMin="351" NumMax="400" Point="45" RequireLevel="20" Zen="70000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
+		<Item NumMin="401" NumMax="450" Point="40" RequireLevel="20" Zen="75000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
+		<Item NumMin="451" NumMax="500" Point="35" RequireLevel="20" Zen="80000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
+		<Item NumMin="501" NumMax="1000" Point="30" RequireLevel="20" Zen="100000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
+		<Item NumMin="10001" NumMax="10000" Point="25" RequireLevel="20" Zen="200000000" Item1="22015" Num1="3" Item2="24022" Num2="3"/>
 	</Normal>
 	<Vip>
-		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="180" Gold="100"/>
-		<Item NumMin="11" NumMax="20" Point="250" RequireLevel="190" Gold="100"/>
-		<Item NumMin="21" NumMax="30" Point="200" RequireLevel="200" Gold="100"/>
-		<Item NumMin="31" NumMax="40" Point="220" RequireLevel="220" Gold="100"/>
-		<Item NumMin="41" NumMax="50" Point="200" RequireLevel="230" Gold="100"/>
-		<Item NumMin="51" NumMax="60" Point="150" RequireLevel="250" Gold="100"/>
-		<Item NumMin="61" NumMax="80" Point="150" RequireLevel="260" Gold="100"/>
-		<Item NumMin="81" NumMax="100" Point="150" RequireLevel="280" Gold="100"/>
-		<Item NumMin="101" NumMax="120" Point="120" RequireLevel="300" Gold="200"/>
-		<Item NumMin="121" NumMax="150" Point="120" RequireLevel="330" Gold="200"/>
-		<Item NumMin="151" NumMax="200" Point="120" RequireLevel="340" Gold="200"/>
-		<Item NumMin="201" NumMax="250" Point="100" RequireLevel="350" Gold="200"/>
-		<Item NumMin="251" NumMax="280" Point="100" RequireLevel="360" Gold="200"/>
-		<Item NumMin="281" NumMax="300" Point="100" RequireLevel="365" Gold="200"/>
-		<Item NumMin="301" NumMax="320" Point="80" RequireLevel="370" Gold="300"/>
-		<Item NumMin="321" NumMax="350" Point="80" RequireLevel="380" Gold="300"/>
-		<Item NumMin="351" NumMax="370" Point="80" RequireLevel="390" Gold="300"/>
-		<Item NumMin="371" NumMax="390" Point="80" RequireLevel="390" Gold="300"/>
-		<Item NumMin="391" NumMax="400" Point="80" RequireLevel="390" Gold="300"/>
+		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="20" Gold="100"/>
+		<Item NumMin="11" NumMax="20" Point="280" RequireLevel="20" Gold="100"/>
+		<Item NumMin="21" NumMax="30" Point="260" RequireLevel="20" Gold="100"/>
+		<Item NumMin="31" NumMax="40" Point="200" RequireLevel="20" Gold="100"/>
+		<Item NumMin="41" NumMax="50" Point="150" RequireLevel="20" Gold="100"/>
+		<Item NumMin="51" NumMax="60" Point="100" RequireLevel="20" Gold="100"/>
+		<Item NumMin="61" NumMax="70" Point="100" RequireLevel="20" Gold="100"/>
+		<Item NumMin="71" NumMax="80" Point="100" RequireLevel="20" Gold="100"/>
+		<Item NumMin="81" NumMax="90" Point="100" RequireLevel="20" Gold="200"/>
+		<Item NumMin="91" NumMax="100" Point="100" RequireLevel="20" Gold="200"/>
+		<Item NumMin="101" NumMax="150" Point="80" RequireLevel="20" Gold="200"/>
+		<Item NumMin="151" NumMax="200" Point="65" RequireLevel="20" Gold="200"/>
+		<Item NumMin="201" NumMax="250" Point="60" RequireLevel="20" Gold="200"/>
+		<Item NumMin="251" NumMax="300" Point="55" RequireLevel="20" Gold="200"/>
+		<Item NumMin="301" NumMax="350" Point="50" RequireLevel="20" Gold="300"/>
+		<Item NumMin="351" NumMax="400" Point="45" RequireLevel="20" Gold="300"/>
+		<Item NumMin="401" NumMax="450" Point="40" RequireLevel="20" Gold="300"/>
+		<Item NumMin="451" NumMax="500" Point="35" RequireLevel="20" Gold="300"/>
+		<Item NumMin="501" NumMax="1000" Point="30" RequireLevel="20" Gold="300"/>
+		<Item NumMin="10001" NumMax="10000" Point="25" RequireLevel="20" Gold="300"/>
 	</Vip>
 
 	<ReLife>

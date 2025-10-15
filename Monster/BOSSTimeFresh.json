@@ -1,12 +1,60 @@
 [
     {
         "RefreshID": 1,
-        "sServerLine": "[0,2]",
+        "sServerLine": "[0,1,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 9,
+        "BossID": "[542]",
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Vàng Vua Rồng Đỏ đã xuất hiện tại Lorencia! Mời các dũng sĩ đến tiêu diệt!\""
+    },
+    {
+        "RefreshID": 2,
+        "sServerLine": "[0,1,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 12,
+        "BossID": "[544]",
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Vàng Vua Rồng Đỏ đã xuất hiện tại Lorencia! Mời các dũng sĩ đến tiêu diệt!\""
+    },
+    {
+        "RefreshID": 3,
+        "sServerLine": "[0,1,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 9,
+        "BossID": "[539]",
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Yêu Tinh Vàng đã xuất hiện tại Noria! Mời các dũng sĩ đến tiêu diệt!\""
+    },
+    {
+        "RefreshID": 4,
+        "sServerLine": "[0,1,2]",
         "Week": "[1,2,3,4,5,6,0]",
         "Time": 12,
         "BossID": "[542,221]",
-        "FreshType": 1,
-        "RefrshNotice": "\"Golden Fire Dragon King xuất hiện tại Ice Wind Valley! Mời các dũng sĩ đến tiêu diệt!\""
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Yêu Tinh Vàng đã xuất hiện tại Noria! Mời các dũng sĩ đến tiêu diệt!\""
+    },
+
+    {
+        "RefreshID": 5,
+        "sServerLine": "[0,1,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 9,
+        "BossID": "[3038]",
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Vàng Quỷ Vây Kiếm đã xuất hiện tại Tarkan! Mời các dũng sĩ đến tiêu diệt!\""
+    },
+
+    {
+        "RefreshID": 6,
+        "sServerLine": "[0,1,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 9,
+        "BossID": "[3057]",
+        "FreshType": 0,
+        "RefrshNotice": "\"Boss Bán Thú Nhân Vàng đã xuất hiện tại Tarkan! Mời các dũng sĩ đến tiêu diệt!\""
     }
+
     
 ]
