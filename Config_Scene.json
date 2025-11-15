@@ -268,8 +268,8 @@
     "SafeAreaPath": "",
     "SpawnAreaIndex": 1252,
     "EnterLevel": 0,
-    "NeedLevel": 0,
+    "NeedLevel": 10,
     "ExcellentItem": 1,
-    "SetItem": 0
+    "SetItem": 1
   }
 ]

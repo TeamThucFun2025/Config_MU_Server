@@ -1481,7 +1481,7 @@
   {
     "Index": 52,
     "OptionType": 6,
-    "Name": "Tăng khả năng tránh đòn PVP+{0:G}%",
+    "Name": "Tăng khả năng tránh đòn PVP +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -2148,7 +2148,7 @@
   {
     "Index": 76,
     "OptionType": 0,
-    "Name": "<color=#FF33FF>Phòng thủ +50</color>",
+    "Name": "<color=#FF33FF>Tăng sức chống đỡ +50</color>",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -2380,7 +2380,7 @@
   {
     "Index": 84,
     "OptionType": 0,
-    "Name": "<color=#FF33FF>Tự động nhặt vàng, kim cương</color>",
+    "Name": "<color=#FF33FF>Tự động nhặt Zen xung quanh</color>",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -2467,7 +2467,7 @@
   {
     "Index": 87,
     "OptionType": 0,
-    "Name": "<color=#FF33FF>Phòng thủ +30</color>",
+    "Name": "<color=#FF33FF>Tăng sức chống đỡ +30</color>",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9021,7 +9021,7 @@
   {
     "Index": 11000,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9050,7 +9050,7 @@
   {
     "Index": 11001,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9224,7 +9224,7 @@
   {
     "Index": 11400,
     "OptionType": 0,
-    "Name": "<color=#800080>Phòng thủ +{0:G}</color>",
+    "Name": "<color=#800080>Tăng sức chống đỡ +{0:G}</color>",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9659,7 +9659,7 @@
   {
     "Index": 20000,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9688,7 +9688,7 @@
   {
     "Index": 20001,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9717,7 +9717,7 @@
   {
     "Index": 20002,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9746,7 +9746,7 @@
   {
     "Index": 20003,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -9775,7 +9775,7 @@
   {
     "Index": 20004,
     "OptionType": 0,
-    "Name": "Sát thương vật lý +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -11979,7 +11979,7 @@
   {
     "Index": 22000,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12008,7 +12008,7 @@
   {
     "Index": 22001,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12037,7 +12037,7 @@
   {
     "Index": 22002,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12066,7 +12066,7 @@
   {
     "Index": 22003,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12095,7 +12095,7 @@
   {
     "Index": 22004,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12124,7 +12124,7 @@
   {
     "Index": 22005,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12153,7 +12153,7 @@
   {
     "Index": 22006,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12182,7 +12182,7 @@
   {
     "Index": 22007,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12211,7 +12211,7 @@
   {
     "Index": 22008,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12240,7 +12240,7 @@
   {
     "Index": 22009,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12269,7 +12269,7 @@
   {
     "Index": 22010,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12298,7 +12298,7 @@
   {
     "Index": 22011,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12327,7 +12327,7 @@
   {
     "Index": 22012,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12356,7 +12356,7 @@
   {
     "Index": 22013,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12385,7 +12385,7 @@
   {
     "Index": 22014,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +{0:G}%",
+    "Name": "Gia tăng sức sát thương +{0:G}%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",
@@ -12994,7 +12994,7 @@
   {
     "Index": 30001,
     "OptionType": 0,
-    "Name": "Tỷ lệ sát thương +10%",
+    "Name": "Gia tăng sức sát thương +10%",
     "DisplayPos": 0,
     "Remark": "",
     "Method": "",

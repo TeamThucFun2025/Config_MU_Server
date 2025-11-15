@@ -5,7 +5,7 @@
 		<!-- Event window at 12:00 every day -->
 		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="40" Second="0"/>
 		<!-- Event window at 18:00 every day -->
-		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="38" Second="0"/>
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="40" Second="0"/>
 		<!-- Event window at 21:00 every day -->
 		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="25" Second="0"/>
 	</Schedule>
