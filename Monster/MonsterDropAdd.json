@@ -23,7 +23,7 @@
     },
     {
         "nDropID": 2,
-        "tDropMap": "[301]",
+        "tDropMap": "[301,302]",
         "tMonsterID": "[432,433,434,435,436,437,438,439,440,441,442,443]\n",
         "nMonLevMin": 1,
         "nMonLevMax": 150,
