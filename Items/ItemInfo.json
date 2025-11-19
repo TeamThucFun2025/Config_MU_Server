@@ -52644,7 +52644,7 @@
   },
   {
     "Id": 23031,
-    "Name": "Mảnh Giáp Rách",
+    "Name": "Mảnh Vỡ Áo Giáp",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52705,7 +52705,7 @@
   },
   {
     "Id": 23032,
-    "Name": "Trí Tuệ Nữ Thần",
+    "Name": "Bảo Hộ Nữ Thần",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52766,7 +52766,7 @@
   },
   {
     "Id": 23033,
-    "Name": "Móng Vuốt Dã Thú",
+    "Name": "Nanh Sói",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -52827,7 +52827,7 @@
   },
   {
     "Id": 23034,
-    "Name": "Mảnh Sừng Vỡ",
+    "Name": "Mảnh Sừng",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 0,
@@ -60086,7 +60086,7 @@
   },
   {
     "Id": 23153,
-    "Name": "Linh Hồn Sói Tinh (Phòng Thủ)",
+    "Name": "Sói Tinh - Phòng Thủ",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 24,
@@ -60147,7 +60147,7 @@
   },
   {
     "Id": 23154,
-    "Name": "Linh Hồn Sói Tinh (Công Kích)",
+    "Name": "Sói Tinh - Tấn Công",
     "nDropIndex": "[0]",
     "Load": 1,
     "Type": 24,
@@ -86561,7 +86561,7 @@
   {
     "Id": 28001,
     "Name": "Mũ Vải Thô",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3011]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86622,7 +86622,7 @@
   {
     "Id": 28011,
     "Name": "Mũ Xương",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3012]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86683,7 +86683,7 @@
   {
     "Id": 28021,
     "Name": "Dây Chuyền Sét",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3013]",
     "Load": 1,
     "Type": 16,
     "Discard": 0,
@@ -86744,7 +86744,7 @@
   {
     "Id": 28031,
     "Name": "Mũ Ma Thuật",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3014]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86805,7 +86805,7 @@
   {
     "Id": 28041,
     "Name": "Mũ Da",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3015]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86866,7 +86866,7 @@
   {
     "Id": 28051,
     "Name": "Mũ Đồng",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3016]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86927,7 +86927,7 @@
   {
     "Id": 28061,
     "Name": "Mũ Trâu Xanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3017]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -86988,7 +86988,7 @@
   {
     "Id": 28071,
     "Name": "Dây Chuyền Hỏa",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3018]",
     "Load": 1,
     "Type": 16,
     "Discard": 0,
@@ -87049,7 +87049,7 @@
   {
     "Id": 28081,
     "Name": "Mũ Thiết Phiến",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3018]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87171,7 +87171,7 @@
   {
     "Id": 28101,
     "Name": "Dây Chuyền Atlantis",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3019]",
     "Load": 1,
     "Type": 16,
     "Discard": 0,
@@ -87232,7 +87232,7 @@
   {
     "Id": 28111,
     "Name": "Mũ Trinh Nữ",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3020]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87293,7 +87293,7 @@
   {
     "Id": 28121,
     "Name": "Mũ Lụa",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3021]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87354,7 +87354,7 @@
   {
     "Id": 28131,
     "Name": "Mũ Thiên Thanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3022]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87415,7 +87415,7 @@
   {
     "Id": 28141,
     "Name": "Mũ Ngọc Bích",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3023]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87476,7 +87476,7 @@
   {
     "Id": 28151,
     "Name": "Mũ Kim Ngân",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3024]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87537,7 +87537,7 @@
   {
     "Id": 28161,
     "Name": "Mũ Thiết Ma",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3025]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87598,7 +87598,7 @@
   {
     "Id": 28171,
     "Name": "Mũ Huyền Thiết ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3026]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87659,7 +87659,7 @@
   {
     "Id": 28181,
     "Name": "Mũ Thuật Sĩ",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3027]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87720,7 +87720,7 @@
   {
     "Id": 28191,
     "Name": "Mũ Hỏa Thiên",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3028]",
     "Load": 1,
     "Type": 11,
     "Discard": 0,
@@ -87781,7 +87781,7 @@
   {
     "Id": 28002,
     "Name": "Áo Vải Thô",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3011]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -87842,7 +87842,7 @@
   {
     "Id": 28012,
     "Name": "Áo Xương",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3012]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -87903,7 +87903,7 @@
   {
     "Id": 28022,
     "Name": "Áo Nhân Sư",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3013]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -87964,7 +87964,7 @@
   {
     "Id": 28032,
     "Name": "Áo Ma Thuật",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3014]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88025,7 +88025,7 @@
   {
     "Id": 28042,
     "Name": "Áo Da",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3015]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88086,7 +88086,7 @@
   {
     "Id": 28052,
     "Name": "Áo Đồng",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3016]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88147,7 +88147,7 @@
   {
     "Id": 28062,
     "Name": "Áo Trâu Xanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3017]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88208,7 +88208,7 @@
   {
     "Id": 28072,
     "Name": "Áo Thiên Kim",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3018]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88269,7 +88269,7 @@
   {
     "Id": 28082,
     "Name": "Áo Thiết Phiến",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3018]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88391,7 +88391,7 @@
   {
     "Id": 28102,
     "Name": "Áo Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3019]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88452,7 +88452,7 @@
   {
     "Id": 28112,
     "Name": "Áo Trinh Nữ",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3020]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88513,7 +88513,7 @@
   {
     "Id": 28122,
     "Name": "Áo Lụa",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3021]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88574,7 +88574,7 @@
   {
     "Id": 28132,
     "Name": "Áo Thiên Thanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3022]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88635,7 +88635,7 @@
   {
     "Id": 28142,
     "Name": "Áo Ngọc Bích",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3023]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88696,7 +88696,7 @@
   {
     "Id": 28152,
     "Name": "Áo Kim Ngân",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3024]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88757,7 +88757,7 @@
   {
     "Id": 28162,
     "Name": "Áo Thiết Ma",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3025]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88818,7 +88818,7 @@
   {
     "Id": 28172,
     "Name": "Áo Huyền Thiết",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3026]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88879,7 +88879,7 @@
   {
     "Id": 28182,
     "Name": "Áo Thuật Sĩ",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3027]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -88940,7 +88940,7 @@
   {
     "Id": 28192,
     "Name": "Áo Hỏa Thiên",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3028]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -89001,7 +89001,7 @@
   {
     "Id": 28003,
     "Name": "Quần Vải Thô",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3011]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89062,7 +89062,7 @@
   {
     "Id": 28013,
     "Name": "Quần Xương",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3012]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89123,7 +89123,7 @@
   {
     "Id": 28023,
     "Name": "Quần Nhân Sư",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3013]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89184,7 +89184,7 @@
   {
     "Id": 28033,
     "Name": "Quần Ma Thuật",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3014]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89245,7 +89245,7 @@
   {
     "Id": 28043,
     "Name": "Quần Da",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3015]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89306,7 +89306,7 @@
   {
     "Id": 28053,
     "Name": "Quần Đồng",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3016]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89367,7 +89367,7 @@
   {
     "Id": 28063,
     "Name": "Quần Trâu Xanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3017]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89428,7 +89428,7 @@
   {
     "Id": 28073,
     "Name": "Quần Thiên Kim",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3018]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89489,7 +89489,7 @@
   {
     "Id": 28083,
     "Name": "Quần Thiết Phiến",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3018]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89611,7 +89611,7 @@
   {
     "Id": 28103,
     "Name": "Quần Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3019]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89672,7 +89672,7 @@
   {
     "Id": 28113,
     "Name": "Quần Trinh Nữ",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3020]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89733,7 +89733,7 @@
   {
     "Id": 28123,
     "Name": "Quần Lụa",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3021]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89794,7 +89794,7 @@
   {
     "Id": 28133,
     "Name": "Quần Thiên Thanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3022]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89855,7 +89855,7 @@
   {
     "Id": 28143,
     "Name": "Quần Ngọc Bích",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3023]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89916,7 +89916,7 @@
   {
     "Id": 28153,
     "Name": "Quần Kim Ngân",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3024]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -89977,7 +89977,7 @@
   {
     "Id": 28163,
     "Name": "Quần Thiết Ma",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3025]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -90038,7 +90038,7 @@
   {
     "Id": 28173,
     "Name": "Quần Huyền Thiết",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3026]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -90160,7 +90160,7 @@
   {
     "Id": 28193,
     "Name": "Quần Hỏa Thiên",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3028]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -90221,7 +90221,7 @@
   {
     "Id": 28004,
     "Name": "Găng Vải Thô",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3011]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90282,7 +90282,7 @@
   {
     "Id": 28014,
     "Name": "Găng Xương",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3012]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90343,7 +90343,7 @@
   {
     "Id": 28024,
     "Name": "Găng Nhân Sư",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3013]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90404,7 +90404,7 @@
   {
     "Id": 28034,
     "Name": "Găng Ma Thuật",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3014]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90465,7 +90465,7 @@
   {
     "Id": 28044,
     "Name": "Găng Da",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3015]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90526,7 +90526,7 @@
   {
     "Id": 28054,
     "Name": "Găng Đồng",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3016]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90587,7 +90587,7 @@
   {
     "Id": 28064,
     "Name": "Găng Trâu Xanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3017]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90648,7 +90648,7 @@
   {
     "Id": 28074,
     "Name": "Găng Thiên Kim",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3018]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90709,7 +90709,7 @@
   {
     "Id": 28084,
     "Name": "Găng Thiết Phiến",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3018]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90831,7 +90831,7 @@
   {
     "Id": 28104,
     "Name": "Găng Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3019]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90892,7 +90892,7 @@
   {
     "Id": 28114,
     "Name": "Găng Trinh Nữ",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3020]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -90953,7 +90953,7 @@
   {
     "Id": 28124,
     "Name": "Găng Lụa",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3021]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91014,7 +91014,7 @@
   {
     "Id": 28134,
     "Name": "Găng Thiên Thanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3022]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91075,7 +91075,7 @@
   {
     "Id": 28144,
     "Name": "Găng Ngọc Bích",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3023]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91136,7 +91136,7 @@
   {
     "Id": 28154,
     "Name": "Găng Kim Ngân",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3024]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91197,7 +91197,7 @@
   {
     "Id": 28164,
     "Name": "Găng Thiết Ma",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3025]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91258,7 +91258,7 @@
   {
     "Id": 28174,
     "Name": "Găng Huyền Thiết",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3026]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91319,7 +91319,7 @@
   {
     "Id": 28184,
     "Name": "Găng Thuật Sĩ",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3027]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91380,7 +91380,7 @@
   {
     "Id": 28194,
     "Name": "Găng Hỏa Thiên",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3028]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -91441,7 +91441,7 @@
   {
     "Id": 28005,
     "Name": "Giày Vải Thô",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3011]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91502,7 +91502,7 @@
   {
     "Id": 28015,
     "Name": "Giày Xương",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3012]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91563,7 +91563,7 @@
   {
     "Id": 28025,
     "Name": "Giày Nhân Sư",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3013]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91624,7 +91624,7 @@
   {
     "Id": 28035,
     "Name": "Giày Ma Thuật",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3014]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91685,7 +91685,7 @@
   {
     "Id": 28045,
     "Name": "Giày Da",
-    "nDropIndex": "[2801]",
+    "nDropIndex": "[2801,3015]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91746,7 +91746,7 @@
   {
     "Id": 28055,
     "Name": "Giày Đồng",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3016]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91807,7 +91807,7 @@
   {
     "Id": 28065,
     "Name": "Giày Trâu Xanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3017]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91868,7 +91868,7 @@
   {
     "Id": 28075,
     "Name": "Giày Thiên Kim",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3018]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -91929,7 +91929,7 @@
   {
     "Id": 28085,
     "Name": "Giày Thiết Phiến",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3018]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92051,7 +92051,7 @@
   {
     "Id": 28105,
     "Name": "Giày Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3019]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92112,7 +92112,7 @@
   {
     "Id": 28115,
     "Name": "Giày Trinh Nữ",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3020]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92173,7 +92173,7 @@
   {
     "Id": 28125,
     "Name": "Giày Lụa",
-    "nDropIndex": "[2802]",
+    "nDropIndex": "[2802,3021]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92234,7 +92234,7 @@
   {
     "Id": 28135,
     "Name": "Giày Thiên Thanh",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3022]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92295,7 +92295,7 @@
   {
     "Id": 28145,
     "Name": "Giày Ngọc Bích",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3023]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92356,7 +92356,7 @@
   {
     "Id": 28155,
     "Name": "Giày Kim Ngân",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3024]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92417,7 +92417,7 @@
   {
     "Id": 28165,
     "Name": "Giày Thiết Ma",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3025]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92478,7 +92478,7 @@
   {
     "Id": 28175,
     "Name": "Giày Huyền Thiết",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3026]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92539,7 +92539,7 @@
   {
     "Id": 28185,
     "Name": "Giày Thuật Sĩ",
-    "nDropIndex": "[2803]",
+    "nDropIndex": "[2803,3027]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92600,7 +92600,7 @@
   {
     "Id": 28195,
     "Name": "Giày Hỏa Thiên",
-    "nDropIndex": "[2804]",
+    "nDropIndex": "[2804,3028]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
@@ -92661,7 +92661,7 @@
   {
     "Id": 28201,
     "Name": "Nhẫn Lửa",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3029]",
     "Load": 1,
     "Type": 17,
     "Discard": 0,
@@ -92722,7 +92722,7 @@
   {
     "Id": 28202,
     "Name": "Áo Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3029]",
     "Load": 1,
     "Type": 12,
     "Discard": 0,
@@ -92783,7 +92783,7 @@
   {
     "Id": 28203,
     "Name": "Quần Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3029]",
     "Load": 1,
     "Type": 13,
     "Discard": 0,
@@ -92844,7 +92844,7 @@
   {
     "Id": 28204,
     "Name": "Găng Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3029]",
     "Load": 1,
     "Type": 14,
     "Discard": 0,
@@ -92905,7 +92905,7 @@
   {
     "Id": 28205,
     "Name": "Giày Phong Vũ",
-    "nDropIndex": "[2805]",
+    "nDropIndex": "[2805,3029]",
     "Load": 1,
     "Type": 15,
     "Discard": 0,
